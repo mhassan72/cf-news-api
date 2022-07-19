@@ -1,4 +1,6 @@
 # Compiled JavaScript files
+lib
+
 lib/**/*.js
 lib/**/*.js.map
 
@@ -15,4 +17,3 @@ service-account-credentials.json
 
 *service-account-credentials.json
 
-lib

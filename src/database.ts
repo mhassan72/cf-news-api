@@ -1,6 +1,4 @@
-// import * as functions from "firebase-functions"
 import admin from "firebase-admin"
-// import serviceAccount from "./service-account-credentials.json"
 const serviceAccount = require("./service-account-credentials.json")
 
 admin.initializeApp({
